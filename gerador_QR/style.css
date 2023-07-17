@@ -1,0 +1,63 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e6f7ff; /* Cor de fundo do container */
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Sombra ao redor do container */
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333; /* Cor do título */
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    color: #666; /* Cor do texto do label */
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #0f1b10fd; /* Cor de fundo do botão */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff4545; /* Cor de fundo do botão ao passar o mouse */
+  }
+  
+  #qr-code {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff; /* Cor de fundo da div do QR Code */
+    min-height: 100px;
+  }
+  label{
+    font-size: larger;
+  }
+  
