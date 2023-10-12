@@ -1,9 +1,8 @@
 
-#Projeto On!
+Projeto Gerador de QR Code
 
 https://github.com/edvaldovitor250/Gerador_QrCode/assets/116117189/32abe7b6-ee5e-4047-b2d6-b2e2e97445a3
 
-#Projeto Gerador de QR Code
 Bem-vindo ao meu projeto de front-end, onde desenvolvi uma ferramenta para gerar QR codes a partir de links inseridos pelo usuário. Embora essa não seja minha especialidade, dediquei-me para criar algo interessante e funcional.
 
 Visão Geral
@@ -26,5 +25,4 @@ Se você tiver feedbacks ou sugestões para melhorar este projeto, por favor, ab
 
 Agradecimentos
 Agradeço por visitar meu repositório e por seu interesse neste projeto. Espero que ele seja útil e inspire outros desenvolvedores a explorar novas tecnologias e desafios.
-
 🚀 Divirta-se explorando o mundo dos QR codes!
